@@ -2,3 +2,5 @@ numpy
 pandas
 matplotlib
 yfinance
+statsmodels
+seaborn

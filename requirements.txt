@@ -1,6 +1,6 @@
 numpy
 pandas
 matplotlib
-yfinance
+yfinance==0.1.62
 statsmodels
 seaborn

@@ -4,3 +4,4 @@ matplotlib
 yfinance==0.1.62
 statsmodels
 seaborn
+beautifulsoup4

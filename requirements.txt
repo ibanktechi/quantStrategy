@@ -6,3 +6,5 @@ statsmodels
 seaborn
 beautifulsoup4
 pandas-datareader
+scipy
+nltk
